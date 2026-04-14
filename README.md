@@ -71,12 +71,6 @@ You can now chat with Cursor and analyze stock market data. Simply provide the s
 - "Compare Apple and Microsoft stocks for the past year"
 - "Analyze the trading volume of Amazon stock for the last month"
 
----
-
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
 
 ---
 
